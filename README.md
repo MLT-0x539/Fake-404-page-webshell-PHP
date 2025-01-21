@@ -1,2 +1,3 @@
-# Fake-404-page-webshell-PHP
-A lightweight fully functional webshell disguised as a HTTP 404 error page
+# PHP webshell disguised as a HTTP 404 error page:
+
+of course youd need RCE to spawn it.
